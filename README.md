@@ -32,6 +32,8 @@ Usage of ./zgrab-mini:
 
 ```bash
 # zmap -p 80 | awk '{print $1":80"}' | ./zgrab-mini
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucyxss%2Fzgrab-mini.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucyxss%2Fzgrab-mini?ref=badge_shield)
+
 ```
 
 ### With Masscan
@@ -44,3 +46,7 @@ Usage of ./zgrab-mini:
 
 - [x] Protocol Data Definition Support
 - [ ] Protocol Data Rules File Support
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucyxss%2Fzgrab-mini.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucyxss%2Fzgrab-mini?ref=badge_large)
